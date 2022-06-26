@@ -52,8 +52,8 @@ keyboard.onKeyUp = (_, pressed) => {
     >
       <Dummy
         :animations="{
-          idle: '/idle.fbx',
-          running: '/running.fbx',
+          idle: '/Idle.fbx',
+          running: '/Running.fbx',
           runningBackwards: '/runningBackward.fbx',
           jumping: '/falling.fbx',
         }"
