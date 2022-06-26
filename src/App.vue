@@ -34,9 +34,9 @@ keyboard.onKeyUp = (_, pressed) => {
       physics="map"
       :width="221.88"
       :depth="252.94"
-      :scale-x="400"
-      :scale-y="400"
-      :scale-z="400"
+      :scale-x="500"
+      :scale-y="500"
+      :scale-z="500"
       src="Grassland.glb"
     />
     <ThirdPersonCamera
@@ -52,10 +52,10 @@ keyboard.onKeyUp = (_, pressed) => {
     >
       <Dummy
         :animations="{
-          idle: 'idle.fbx',
-          running: 'running.fbx',
-          runningBackwards: 'runningBackward.fbx',
-          jumping: 'falling.fbx',
+          idle: '/idle.fbx',
+          running: '/running.fbx',
+          runningBackwards: '/runningBackward.fbx',
+          jumping: '/falling.fbx',
         }"
         toon
         pbr
