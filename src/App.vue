@@ -52,8 +52,9 @@ keyboard.onKeyUp = (_, pressed) => {
     >
       <Dummy
         :animations="{
-          idle: '/Idle.fbx',
-          running: '/Running.fbx',
+          idle: 'https://616e-animal-crossing-4g4u768wbb476869-1308088731.tcb.qcloud.la/animalCross/Idle.fbx?sign=4228a7e4012732b9af793920d6cd63e4&t=1656220304',
+          running:
+            'https://616e-animal-crossing-4g4u768wbb476869-1308088731.tcb.qcloud.la/animalCross/Running.fbx?sign=405569bd50421f88b071c425500b6a8e&t=1656220053',
           runningBackwards: '/runningBackward.fbx',
           jumping: '/falling.fbx',
         }"
