@@ -28,6 +28,9 @@
 ###### 2. 空格键跳跃（跳跃高度很高，可以跳到房顶）
 ![image](https://user-images.githubusercontent.com/63916635/227411087-a5c1e580-afb2-497d-9f05-7ccc94647eff.png)
 
+###### 3. 鼠标可以自由控制视角
+![image](https://user-images.githubusercontent.com/63916635/227411774-e3863bc4-1f2b-4fb5-be3b-8d4fedf782e2.png)
+
 
 #### 在线预览：
 
